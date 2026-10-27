@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm M.Bilal Pratama</h1>
 <h3 align="center">a beginner</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokorobuxx-stack" alt="kokorobuxx-stack" /></a> </p>
+
 - 🔭 I’m currently working on [Web top up robux](https://koko-rbx.vercel.app)
 
 - 📫 How to reach me **kokorobuxx@gmail.com**
+
+- ⚡ Fun fact **I think im funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
